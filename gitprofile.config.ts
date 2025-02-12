@@ -33,20 +33,20 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'ReecoTech Berthing Aid System',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Berthing Aid System (BAS), also known as the BlueEco-BAS, is designed to continuously monitor a ship’s approach to the berth during berthing maneuvers and provide real-time data to relevant parties in a clear and timely manner.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://reecotech.com.vn/wp-content/uploads/2023/12/he-thong-bas.png',
+          link: 'https://reecotech.com.vn/en/solutions/reeco-mooring-support-system/',
         },
         {
-          title: 'Project Name',
+          title: 'VnEmisoft – Automatic Monitoring Data Management Software',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'The VnEmisoft software was developed by the Reeco Tech team. The system is built on a big data platform. Data is collected from various sources such as automatic environmental monitoring stations, hydrometeorological stations, and measuring and analysis devices (which have been calibrated) shared by organizations or individuals. This data is synthesized and integrated by location and time. It is then processed using scientific analysis and statistical tools, combined with AI to build forecasting and warning models.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://reecotech.com.vn/wp-content/uploads/2024/02/chuc-nang-bieu-do-phan-mem-vnemisoft.jpg',
+          link: 'https://reecotech.com.vn/en/pham-mem/vnemisoft-automatic-monitoring-data-management-software/',
         },
       ],
     },
@@ -83,20 +83,27 @@ const CONFIG = {
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
+    // 'PHP',
+    // 'Laravel',
     'JavaScript',
     'React.js',
     'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
+    'Python',
+    'Java/ Scala',
+    // 'Nest.js',
     'Git',
     'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    // 'PHPUnit',
+    // 'Antd',
+    // 'Tailwind',
+    'HuggingFace',
+    'Apache Kafka',
+    'MySQL',
+    'PostgreSQL',
+    'Redis',
+    'MongoDB',
+    'AWS',
+    'GCP'
   ],
   experiences: [
     {
@@ -124,17 +131,18 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'VNUHCM - University of Information Technology (UIT)',
+      degree: 'Bachelor',
+      from: '2021',
+      to: '2025',
+      major: 'Data Science'
     },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
-    },
+    // {
+    //   institution: 'Institution Name',
+    //   degree: 'Degree',
+    //   from: '2012',
+    //   to: '2014',
+    // },
   ],
   publications: [
     {
@@ -158,8 +166,8 @@ const CONFIG = {
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    source: '', // medium | dev
+    username: '', // to hide blog section, keep it empty
     limit: 2, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
@@ -171,7 +179,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'pastel',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
@@ -234,13 +242,13 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
-      target="_blank"
-      rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+  // footer: `Made with <a 
+  //     class="text-primary" href="https://github.com/arifszn/gitprofile"
+  //     target="_blank"
+  //     rel="noreferrer"
+  //   >GitProfile</a> and ❤️`,
 
-  enablePWA: true,
+  // enablePWA: true,
 };
 
 export default CONFIG;
