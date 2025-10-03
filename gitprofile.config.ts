@@ -125,12 +125,6 @@ const CONFIG = {
       link: '',
     },
     {
-      name: 'VNU-EPT B1.4 Level',
-      body: 'English Proficiency Test',
-      year: '2025',
-      link: '',
-    },
-    {
       name: 'Google AI Essentials',
       body: 'Critical Thinking Certificate',
       year: '2023',
@@ -146,6 +140,12 @@ const CONFIG = {
       name: 'Business Analytics Foundation',
       body: '',
       year: '2023',
+      link: '',
+    },
+    {
+      name: 'VNU-EPT B1.4 Level',
+      body: 'English Proficiency Test',
+      year: '2025',
       link: '',
     },
     {
@@ -170,7 +170,7 @@ const CONFIG = {
   educations: [
     {
       institution: 'University of Information Technology (VNU-HCM)',
-      degree: 'Bachelor',
+      degree: 'Bachelor of Data Science',
       from: '2021',
       to: '2025',
       major: 'Data Science',
@@ -178,7 +178,7 @@ const CONFIG = {
     },
     {
       institution: 'University of Information Technology (VNU-HCM)',
-      degree: 'Master',
+      degree: 'Master of Computer Science',
       from: '2025',
       to: '',
       major: 'Computer Science',
