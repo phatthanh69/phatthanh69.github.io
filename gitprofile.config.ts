@@ -35,19 +35,19 @@ const CONFIG = {
         {
           title: 'Berthing Aid System (BAS)',
           description: 'Real-time ship positioning and berthing support system with JavaScript, sensor processing, and Kafka/Postgres streaming pipeline.',
-          imageUrl: 'https://reecotech.com.vn/wp-content/uploads/2023/12/he-thong-bas.png',
+          imageUrl: '/bas.jpg',
           link: 'https://reecotech.com.vn/en/solutions/reeco-mooring-support-system/',
         },
         {
           title: 'VnEmisoft Hydromet Monitoring',
           description: 'Big-data processing & dashboard monitoring for environmental metrics (rainfall, flow, water level), responsive web interface, data integration from multiple stations.',
-          imageUrl: 'https://reecotech.com.vn/wp-content/uploads/2024/02/chuc-nang-bieu-do-phan-mem-vnemisoft.jpg',
+          imageUrl: '/vnemisoft.png',
           link: 'https://reecotech.com.vn/en/pham-mem/vnemisoft-automatic-monitoring-data-management-software/',
         },
         {
-          title: 'RAG Chatbot & Data Science Portfolio',
+          title: 'RAG Chatbot',
           description: 'Retrieval Augmented Generation chatbot using LangChain and vector search.',
-          imageUrl: '',
+          imageUrl: '/rag.png',
           link: 'https://github.com/phatthanh69',
         },
       ],
@@ -67,7 +67,7 @@ const CONFIG = {
     email: 'phatthanh69.work@gmail.com',
   },
   resume: {
-    fileUrl: '', // Cập nhật với đường dẫn file PDF thực tế khi công khai
+    fileUrl: 'https://drive.google.com/drive/folders/1mUk9t96npSQ2EQIIuie26kTxQx7pjJvw?usp=sharing',
   },
   skills: [
     'Python',
@@ -115,13 +115,6 @@ const CONFIG = {
       from: 'July 2024',
       to: 'Present',
       companyLink: 'https://reecotech.com.vn/en/',
-    },
-    {
-      company: 'UNDP VN-CSCC Project',
-      position: 'GIS & Data Engineer (Intern)',
-      from: 'May 2023',
-      to: 'June 2024',
-      companyLink: 'https://www.undp.org/vietnam/projects/viet-nam-climate-smart-coastal-communities-vncscc',
     },
   ],
   certifications: [
