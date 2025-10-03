@@ -190,7 +190,7 @@ const CONFIG = {
       title: 'RAG Vector Search System Architecture',
       journalName: '',
       authors: 'Pham Le Thanh Phat',
-      link: 'https://github.com/phatthanh69/RAG-Vector-Search',
+      link: 'https://github.com/phatthanh69/RAG-Chatbot',
       description:
         'Comprehensive Retrieval Augmented Generation system using LangChain, Sentence-BERT, BM25, PGVector, and multi-modal search for chatbot/document QA.',
     },
