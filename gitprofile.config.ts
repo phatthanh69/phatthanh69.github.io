@@ -48,7 +48,7 @@ const CONFIG = {
           title: 'RAG Chatbot',
           description: 'Retrieval Augmented Generation chatbot using LangChain and vector search.',
           imageUrl: '/rag.png',
-          link: 'https://github.com/phatthanh69',
+          link: 'https://github.com/phatthanh69/RAG-Chatbot',
         },
       ],
     },
