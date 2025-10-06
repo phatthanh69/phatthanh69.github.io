@@ -34,13 +34,13 @@ const CONFIG = {
         },
         {
           title: 'Berthing Aid System (BAS)',
-          description: 'Real-time ship positioning and berthing support system with JavaScript, sensor processing, and Kafka/Postgres streaming pipeline.',
+          description: 'Real-time ship positioning and berthing support system with JavaScript, sensor processing, and Kafka/Postgres streaming pipeline.\n Create with Typescript & Reactjs',
           imageUrl: '/bas.jpg',
           link: 'https://reecotech.com.vn/en/solutions/reeco-mooring-support-system/',
         },
         {
           title: 'VnEmisoft Hydromet Monitoring',
-          description: 'Big-data processing & dashboard monitoring for environmental metrics (rainfall, flow, water level), responsive web interface, data integration from multiple stations.',
+          description: 'Big-data processing & dashboard monitoring for environmental metrics (rainfall, flow, water level), responsive web interface, data integration from multiple stations. \n Create with Typescript & Reactjs',
           imageUrl: '/vnemisoft.png',
           link: 'https://reecotech.com.vn/en/pham-mem/vnemisoft-automatic-monitoring-data-management-software/',
         },
