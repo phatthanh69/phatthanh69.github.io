@@ -28,7 +28,7 @@ const CONFIG = {
       projects: [
         {
           title: 'VNCSCC WebGIS & Satellite Analytics',
-          description: 'Comprehensive WebGIS platform and satellite imagery analytics for UNDP Climate-Smart Coastal Communities, supporting multi-layer mapping and NDVI calculations.',
+          description: 'Comprehensive WebGIS platform and satellite imagery analytics for UNDP Climate-Smart Coastal Communities, supporting multi-layer mapping and NDVI calculations. \n Framework: Nestjs & Reactjs',
           imageUrl: '/undp_screenshot.png',
           link: 'https://www.undp.org/vietnam/projects/viet-nam-climate-smart-coastal-communities-vncscc',
         },
