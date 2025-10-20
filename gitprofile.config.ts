@@ -30,7 +30,7 @@ const CONFIG = {
           title: 'VNCSCC WebGIS & Satellite Analytics',
           description: 'Comprehensive WebGIS platform and satellite imagery analytics for UNDP Climate-Smart Coastal Communities, supporting multi-layer mapping and NDVI calculations. \n Framework: Nestjs & Reactjs',
           imageUrl: '/undp_screenshot.png',
-          link: 'https://www.undp.org/vietnam/projects/viet-nam-climate-smart-coastal-communities-vncscc',
+          link: 'https://bd.vncscc.com/@9,13.890702868655719,108.85301113128664',
         },
         {
           title: 'Berthing Aid System (BAS)',
