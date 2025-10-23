@@ -121,7 +121,7 @@ const CONFIG = {
     {
       name: 'TOEIC 780',
       body: 'Listening 445, Reading 335',
-      year: '2022',
+      year: '2023',
       link: '',
     },
     {
@@ -178,10 +178,10 @@ const CONFIG = {
     },
     {
       institution: 'University of Information Technology (VNU-HCM)',
-      degree: 'Master of Computer Science',
+      degree: 'Master of Information Technology',
       from: '2025',
-      to: '',
-      major: 'Computer Science',
+      to: '2027',
+      major: 'Information Technology',
       gpa: '',
     },
   ],
