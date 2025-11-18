@@ -110,10 +110,17 @@ const CONFIG = {
   ],
   experiences: [
     {
+      company: 'Timo Digital Bank by BV Bank',
+      position: 'Data Scientist',
+      from: 'Nov 2025',
+      to: 'Present',
+      companyLink: 'https://timo.vn/',
+    },
+    {
       company: 'Reeco Tech Co., Ltd.',
       position: 'Software Developer & Data Engineer',
       from: 'July 2024',
-      to: 'Present',
+      to: 'Nov 2025',
       companyLink: 'https://reecotech.com.vn/en/',
     },
   ],
